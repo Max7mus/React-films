@@ -1,0 +1,28 @@
+*{
+    margin: 0, auto;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+    background: center;
+    background-size: cover;
+}
+
+
+
+body{
+    background-color: rgb(54, 50, 50);
+    height: 100%;
+}
+
+.home{
+    height: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.loader{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
